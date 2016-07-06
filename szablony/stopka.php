@@ -1,0 +1,1 @@
+Prawa zastrzeżone &copy; <a href="http://mietech.pl">mietech.pl </a>2016

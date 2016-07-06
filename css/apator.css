@@ -1,0 +1,44 @@
+.login,.haslo {
+	font-size: 40px;
+	padding: 10px;
+	float: none;
+	display: inline-block;
+}
+
+.row {
+	margin-bottom: 50px;
+	margin-top: 30px;
+        margin-left: 5px;
+        margin-right: 5px;
+}
+
+.form-control {
+	max-width: 300px;
+}
+#wyloguj {
+    /*display: block;*/
+    /*float: right;*/
+    text-align: left;
+}
+#top {
+    /*display: block;*/
+}
+
+#NAGLOWEK{
+    margin-top: -30px;
+}
+
+#STOPKA {
+    float: right;
+}
+table, tr, td {
+    border: 1px solid black;
+    text-align: center;
+}
+td {
+    padding: 10px;
+}
+
+#logo {
+    padding: 10px;
+}
